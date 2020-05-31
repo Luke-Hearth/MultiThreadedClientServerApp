@@ -1,0 +1,5 @@
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\bin\Release\Server.exe.config
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\bin\Release\Server.exe
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\bin\Release\Server.pdb
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\obj\Release\Server.exe
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\obj\Release\Server.pdb

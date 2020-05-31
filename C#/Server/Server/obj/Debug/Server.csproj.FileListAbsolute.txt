@@ -1,0 +1,12 @@
+F:\Uni Things\Year 3\AdvancedProgramming\Assingment\C#\Server\Server\bin\Debug\Server.exe.config
+F:\Uni Things\Year 3\AdvancedProgramming\Assingment\C#\Server\Server\bin\Debug\Server.exe
+F:\Uni Things\Year 3\AdvancedProgramming\Assingment\C#\Server\Server\bin\Debug\Server.pdb
+F:\Uni Things\Year 3\AdvancedProgramming\Assingment\C#\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Uni Things\Year 3\AdvancedProgramming\Assingment\C#\Server\Server\obj\Debug\Server.exe
+F:\Uni Things\Year 3\AdvancedProgramming\Assingment\C#\Server\Server\obj\Debug\Server.pdb
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\bin\Debug\Server.exe.config
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\obj\Debug\Server.exe
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\obj\Debug\Server.pdb
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\bin\Debug\Server.exe
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\bin\Debug\Server.pdb
+M:\Uni Things\Year 3\Advanced Prog\Assingment\C#\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
